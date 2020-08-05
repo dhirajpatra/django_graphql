@@ -1,18 +1,24 @@
 # django graphql with graphene
 
-## this application can be a template for bigger graphql based application for django
+## This application can be a template for bigger graphql based application for django
 
-## how to install
+
+### how to install
 
 Clone or download this repository
+
 
 Run following commands:
 
 `pip install -R requirements.txt`
+
 `python manage.py migrate`
+
 `python manage.py runserver`
 
+
 Go to the address which came output from above command.
+
 
 Then you can run the following graphql:
 
