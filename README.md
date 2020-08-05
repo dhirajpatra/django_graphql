@@ -17,7 +17,7 @@ Run following commands:
 `python manage.py runserver`
 
 
-Go to the address which came output from above command.
+Go to the address which came output from above command. eg. http://localhost:8000/graphql/
 
 
 Then you can run the following graphql:
