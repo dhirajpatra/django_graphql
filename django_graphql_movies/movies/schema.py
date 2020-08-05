@@ -1,6 +1,5 @@
 from typing import TYPE_CHECKING
 import graphene
-from graphene.types.argument import Argument
 from graphene.types.mutation import Mutation
 from graphene_django.types import DjangoObjectType, ObjectType
 from django_graphql_movies.movies.models import Actor, Movie
